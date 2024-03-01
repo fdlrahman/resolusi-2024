@@ -1,0 +1,5 @@
+RESOLUSI 2024
+- Mempelajari Teknologi Terbaru Seputar React (NEXTJS, TYPESCRIPT, DLL) dan NodeJS (NestJS, DLL)
+- Mempelajari Clean Code nya REACT dan Node JS
+- Ingin Belajar Laravel untuk Membuat API
+- Kerja Remote di Perusahaan Amerika
